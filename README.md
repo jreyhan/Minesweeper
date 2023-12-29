@@ -1,5 +1,4 @@
-# Standard Minesweeper Game
-# Implementation
+# Standard Minesweeper Game Implementation
 
   MineField.java -> This class represents the game board - MineField -, which covers all the major/core characteristics
   of the Minesweeper. The class extends JPanel and overrides the paintComponent function to draw the individual elements
