@@ -7,6 +7,6 @@ GameState.java -> This class handles the File I/O component of the game. It incl
 RunMinesweeper.java -> This class implements Runnable, and creates the user interface of the game. This class focuses on specifying the frame and widgets of the GUI, including the reset and export buttons at the top and the instructions and settings buttons at the bottom. When the user wants to run the actual game, this file should be run.
 
 # External Sources
-http://www.java2s.com/Code/Java/Event/Handlemousebuttonclickevent.htm
-http://minesweeperonline.com/ - played the game a couple of times to get the sense of the algorithm and design
+http://www.java2s.com/Code/Java/Event/Handlemousebuttonclickevent.htm \\
+http://minesweeperonline.com/ - played the game a couple of times to get a sense of the algorithm and design \\
 https://apkpure.com/minesweeper-classic/com.jurajkusnier.minesweeper - clipped the game icons from these pictures
