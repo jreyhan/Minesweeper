@@ -1,8 +1,5 @@
-# minesweeper
-
-=========================
-=: Implementation :=
-=========================
+# Standard Minesweeper Game
+# Implementation
 
   MineField.java -> This class represents the game board - MineField -, which covers all the major/core characteristics
   of the Minesweeper. The class extends JPanel and overrides the paintComponent function to draw the individual elements
@@ -22,9 +19,7 @@
   the top and the instructions and settings buttons at the bottom. When the user wants to run the actual game,
   this file should be run.
 
-========================
-=: External Resources :=
-========================
+# External Sources
 
   http://www.java2s.com/Code/Java/Event/Handlemousebuttonclickevent.htm
   http://minesweeperonline.com/ - played the game a couple of times to get the sense of the algorithm and design
